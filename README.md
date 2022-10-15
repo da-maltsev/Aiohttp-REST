@@ -1,5 +1,7 @@
 # Aiohttp-REST
 
+Функционал аналогичен [FlaskRest](https://github.com/da-maltsev/FlaskRest)
+
 Для запуска:
 
 - docker build -t {build_name} .
